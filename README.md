@@ -14,3 +14,7 @@ This repository contains my solutions to the programming assignments from the **
 2. [**Data Structures** 🌳]
 
 ---
+## 🛠 Skills Practiced
+- 📏 **Complexity Analysis** (Big-O, Theta, Omega notations)
+- 📦 **Data Structures**: Arrays · Stacks · Queues · Linked Lists · Trees · Heaps · Hash Tables
+- 🧠 **Algorithms**: Greedy · Divide & Conquer · Dynamic Programming . Sorting 
