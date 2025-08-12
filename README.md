@@ -14,5 +14,3 @@ This repository contains my solutions to the programming assignments from the **
 2. [**Data Structures** 🌳]
 
 ---
-
-## 🗂 Repository Structure
