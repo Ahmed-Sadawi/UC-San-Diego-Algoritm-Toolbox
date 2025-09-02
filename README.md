@@ -27,3 +27,5 @@ This repository contains my solutions to the **Algorithmic Toolbox** course assi
   - How to divide any big problem into smaller sub-problems related to the original(including the Base case, which is the core       of any solution).
   - How to build Logical steps interconnected with each other to solve the problem.
 ---
+## Certificate and Skills
+https://coursera.org/share/ed2efa9478a98c369d2a2db4da30b572
